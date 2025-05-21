@@ -4,7 +4,7 @@ c6 : how to CRUD files ? && how to convert fileData <=> vector ?
 c7 : how to convert record <=> line && record <=> fileData ?
 
 05 / 19 & 20 & 21 / 2025
-working on data structures. (c12) (-170min)
+working on data structures. (c12) (-140min)
 { for revision :
 what is binary data strcture? and why we use it?
 why there are serval data structures (e.x: stack, vector, queue...)?
