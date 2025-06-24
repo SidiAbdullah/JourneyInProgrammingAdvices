@@ -10,3 +10,8 @@ programming concepts with c# - c14 (.NET freamwork, programming concepts with c#
 
 6 / 23 & 24 / 2025 -- (2h) & (28m + 2h32?) :
 programming concepts with c# - c16 (OOP)
+
+
+for revision {
+why We can have only one static constructor in a class. It cannot have any parameters or access modifiers?
+}
