@@ -30,7 +30,7 @@ programming concepts with c# - c16 (OOP)
   Inheritance: Classes can be inherited, structures can't.
   Default constructor: Classes have a default constructor, Structures don't.
   Reference type vs Value type: Classes are reference types, Structures are value types.
-  Performance: Structures stored on the stack rather than the heap.
+  Performance: Structures stored on the stack, classes in the heap.
   Memory management.
 
 -- How does the default constructor work? like how does it initialize the data?
