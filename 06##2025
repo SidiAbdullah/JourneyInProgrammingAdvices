@@ -24,4 +24,5 @@ programming concepts with c# - c16 (OOP)
   Runtime polymorphism (also known as method overriding)
   inheritance is also a form of polymorphism known as "subtyping" or "subtype polymorphism".
 - .NET class library (by adding and refrencing our new project or exited one or just refrencing it's DLL)
+- internal access modifier
 }
