@@ -8,7 +8,7 @@ CRUD and Queries DataBase-c15
 6 / 19 & 20 & 21 & 22 / 2025 -- (1h) & (1h) & (25m) & (1h15m) :
 programming concepts with c# - c14 (.NET freamwork, prg basics with c#, +2 windows forms projects)
 
-6 / 23 & 24 & 25 / 2025 -- (2h) & (1h25m) & (1h50 + 15m) :
+6 / 23 & 24 & 25 / 2025 -- (2h) & (1h25m) & (2h + 5m) :
 programming concepts with c# - c16 (OOP)
 
 
@@ -25,4 +25,6 @@ programming concepts with c# - c16 (OOP)
   inheritance is also a form of polymorphism known as "subtyping" or "subtype polymorphism".
 - .NET class library (by adding and refrencing our new project or exited one or just refrencing it's DLL)
 - internal access modifier
+
+-- How does the default constructor work? like how does it initialize the data?
 }
