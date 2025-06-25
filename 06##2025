@@ -25,6 +25,13 @@ programming concepts with c# - c16 (OOP)
   inheritance is also a form of polymorphism known as "subtyping" or "subtype polymorphism".
 - .NET class library (by adding and refrencing our new project or exited one or just refrencing it's DLL)
 - internal access modifier
+- Here are some of the main differences between classes and structures in C#:
+  Syntax
+  Inheritance: Classes can be inherited, structures can't.
+  Default constructor: Classes have a default constructor, Structures don't.
+  Reference type vs Value type: Classes are reference types, Structures are value types.
+  Performance: Structures stored on the stack rather than the heap.
+  Memory management.
 
 -- How does the default constructor work? like how does it initialize the data?
 }
