@@ -13,9 +13,14 @@ programming concepts with c# - c16 (OOP)
 
 
 { for revision :
-why We can have only one static constructor in a class and it can not have any parameters or access modifiers?
-why : We can only have one destructor in a class. || 
+- why We can have only one static constructor in a class and it can not have any parameters or access modifiers?
+- why : We can only have one destructor in a class. || 
   A destructor cannot have access modifiers, parameters, or return types. || 
   A destructor is called implicitly by the Garbage collector of the .NET Framework. ||
   We cannot overload or inherit destructors. || We cannot define destructors in structs.
+- method hiding concept in c#
+- C# supports two types of polymorphism:
+  compile-time polymorphism (also known as method overloading)
+  Runtime polymorphism (also known as method overriding)
+  inheritance is also a form of polymorphism known as "subtyping" or "subtype polymorphism".
 }
