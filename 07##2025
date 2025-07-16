@@ -18,10 +18,10 @@ c10(stringLibraryOOP ✅ & DataLibraryOOP ❌) Projects ✅❌ (c7, c8, c10) x d
 7 / 10 & 11 & 12 & 13 & 14 & 15 & 16 / 2025 -- (1h) & (1h8) & (1h) & (16m) & (15m) & (23m) & (1h20 + ?):
 DataStructures with c#  - c22 (DataStructures != DataBases, unBoxing, CRUDS and opps on 
 collections[Lists, HashTable, Dictionary, hashSet, SortedList, SortedSet, 
-SortedDictionary, ArrayList, ObservableCollection, ..]) ❌✅ x days
+SortedDictionary, ArrayList, ObservableCollection, Stacks, Queues, ..]) ❌✅ x days
 
 - for revision
 {
-  - How to build CRUD and functions like countItems() on HashTable || Dictionary 
-    || SortedList || SortedDictionary from scratch?
+  - How to build CRUD and functions like countItems() on HashTable || Dictionary || SortedList 
+    || SortedDictionary || ObservableCollection || Stacks || Queues from scratch?
 }
