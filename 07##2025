@@ -25,4 +25,6 @@ SortedDictionary, ArrayList, ObservableCollection, Stacks, Queues, Linked Lists,
   - How to build CRUD and functions like countItems() on HashTable || Dictionary || SortedList 
     || SortedDictionary || ObservableCollection || Stacks || Queues || Linked Lists from scratch?
   - Linked List is a data structure used to build other data structures like Stack, Queue , and others.
+  - Array.Copy(original, copy, original.Length);
+
 }
