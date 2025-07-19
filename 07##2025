@@ -25,9 +25,9 @@ Tree[general, Binary], Graph, ..) ❌✅ x days
 
 - for revision
 {
-  - How to build CRUD and functions like countItems() on HashTable || Dictionary || SortedList 
+  - How to build CRUDS and functions like countItems() on HashTable || Dictionary || SortedList 
     || SortedDictionary || ObservableCollection || Stacks || Queues || Linked Lists
-    || BitArray <=> Byte[] || BitArray.{And, Or, Xor, Not) from scratch?
+    || BitArray <=> Byte[] || BitArray.{And, Or, Xor, Not) || Tree[general, Binary] || Graph from scratch?
   - Linked List is a data structure used to build other data structures like Stack, Queue , and others.
   - Linked list and binary tree are cases of general tree and all are graphs
   - why graph with matrix is faster in searching than with list but requires more space?
