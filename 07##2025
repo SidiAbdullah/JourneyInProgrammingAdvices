@@ -21,7 +21,7 @@ DataStructures with c#  - c22 (DataStructures != DataBases, unBoxing, CRUDS and 
 collections[Lists, HashTable, Dictionary, hashSet, SortedList, SortedSet, 
 SortedDictionary, ArrayList, ObservableCollection, Stacks, Queues, Linked Lists, array,
 bitArray, Jagged arrays, Tuples], Interfaces[IEnumerable, ICollection, IList, IDictionary, ISet, IComparable],
-Tree, ..) ❌✅ x days
+Tree[general, Binary], Graph, ..) ❌✅ x days
 
 - for revision
 {
