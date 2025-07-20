@@ -21,14 +21,13 @@ DataStructures with c#  - c22 (DataStructures != DataBases, unBoxing, CRUDS and 
 collections[Lists, HashTable, Dictionary, hashSet, SortedList, SortedSet, 
 SortedDictionary, ArrayList, ObservableCollection, Stacks, Queues, Linked Lists, array,
 bitArray, Jagged arrays, Tuples], Interfaces[IEnumerable, ICollection, IList, IDictionary, ISet, IComparable],
-Tree[general, Binary, Heap], Graph, ..) ❌✅ x days
+general Tree, Binary Tree, Graph, Min and Max Heap, priority queue ..) ❌✅ x days
 
-- for revision
+- Notes
 {
-  - How to build CRUDS and functions like countItems() on HashTable || Dictionary || SortedList 
-    || SortedDictionary || ObservableCollection || Stacks || Queues || Linked Lists
-    || BitArray <=> Byte[] || BitArray.{And, Or, Xor, Not) || Tree[general, Binary] || Graph from scratch?
+  - How to build CRUDS and methods like countItems() on HashTable[Dictionary[SortedList, SortedDictionary]]
+    || ObservableCollection || Stacks || Queues || BitArray <=> ByteArray || BitArray.{And, Or, Xor, Not}
+    || Graph[Tree[Linked Lists, Binary[Heap[priority queue]]]] from scratch?
   - Linked List is a data structure used to build other data structures like Stack, Queue , and others.
-  - Linked list and binary tree are cases of general tree and all are graphs
   - why graph with matrix is faster in searching than with list but requires more space?
 }
