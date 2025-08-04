@@ -8,4 +8,8 @@ c# & windows forms - c20 (Share Data between forms, ..) ❌✅ x days
 7 / 2 & 3 & 4 / 2025 -- (1h48) & (20m) & (33m + 2h36?) == 8h:
 Database Concepts & T-SQL - c21 (variables, if, while loop, error handeling[try vs @@error],
 Transactions[ACID], varTable, tempTable, Stored Procedures, 
-Window Functions[ROW_NUMBER; RANK, DENSE_RANK, Aggregate with Partition; LAG, LEAD], ..)  ❌✅ x days
+Window Functions[aggregate, ], ..)  ❌✅ x days
+
+- Notes : {
+  - most of c21 about how to use some speacial window functions like ranking... but how to build them your own?
+}
