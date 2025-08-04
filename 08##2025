@@ -7,4 +7,5 @@ c# & windows forms - c20 (Share Data between forms, ..) ❌✅ x days
 
 7 / 2 & 3 & 4 / 2025 -- (1h48) & (20m) & (22m + 2h49?) == 8h:
 Database Concepts & T-SQL - c21 (variables, if, while loop, error handeling[try vs @@error],
-Transactions[ACID], varTable, tempTable, Stored Procedures, Window Functions, ..)  ❌✅ x days
+Transactions[ACID], varTable, tempTable, Stored Procedures, 
+Window Functions[ROW_NUMBER; RANK, DENSE_RANK, Aggregate with Partition; LAG, LEAD], ..)  ❌✅ x days
