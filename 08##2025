@@ -14,4 +14,5 @@ Triggers[After & Instead of Triggers], Cursors[Static & Dynamic Forward only || 
 
 - Notes : {
   - most of c21 about how to use some speacial window functions like ranking... but how to build them your own?
+  - how to Recursive CTEs for Building Employee Hierarchies ?
 }
