@@ -9,7 +9,8 @@ c# & windows forms - c20 (Share Data between forms, ..) ❌✅ x days
 Database Concepts & T-SQL - c21 (variables, if, while loop, error handeling[try vs @@error],
 Transactions[ACID], varTable, tempTable, Stored Procedures, Window Functions[ROW_NUMBER(), RANK(), 
 DENSE_RANK(), Aggregate with Partition, LAG(), LEAD(), Paging using OFFSET and FETCH NEXT],
-scalar functions, Table-Valued Functions[inline, multi], Dynamic SQL* Injection Attack, ..)  ❌✅ x days
+scalar functions, Table-Valued Functions[inline, multi], Dynamic SQL* Injection Attack, 
+Triggers[After Triggers, ])  ❌✅ x days
 
 - Notes : {
   - most of c21 about how to use some speacial window functions like ranking... but how to build them your own?
