@@ -6,8 +6,8 @@ SQLServer <=> Console || windows froms, Data(Set, Table, View, Adapter)) ✅ 12 
 7 / 4 & 5 & 10 & 11 & 12 / 2025 -- (31m) & (8m) & (43m) & (40m) & (1h25) == 17h :
 Full Real Project - c19 ✅
 
-7 / 9 & 10 / 2025 -- (7m) & (1h8) == 13h:
-c# & windows forms - c20 (Share Data between forms, ..) ✅
+7 / 9 & 10 / 2025 -- (7m) & (40m) == 13h:
+c# & windows forms - c20 (Share Data between forms, userControl) ✅
 
 7 / 30 & 31 / 2025 -- (2h10) & (28m) == 8h:
 Database Concepts & T-SQL - c21 (variables, if, loops, error handeling, ..)  ✅
