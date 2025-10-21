@@ -18,7 +18,7 @@ HTML  - c1 (why HTML, HTML vs CSS vs Js, ?Browsers Render HTML, elements[heading
 horizontal rule], containers[span vs div], TextFormatting[!comments, bold vs strong, italic vs emphasis, underline, 
 small, mark, deletion & insert, subscript & superscript], elements[images(?Browsers Deal With Images, 
 Lazy & Eager & Auto Loading, Responsive Design, srset, Formats for Webpages), iFrame(lazy, srcdoc), 
-Hyperlinks(to internal & external[site, image, email, phone, ]), ]) ❌✅ x days
+Hyperlinks(to internal & external[site, image, email, phone, document, ]), ]) ❌✅ x days
 
 
 2) Data structures and algorithms :
