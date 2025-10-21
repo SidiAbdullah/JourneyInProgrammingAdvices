@@ -23,7 +23,7 @@ a++. elements[
   - images(?Browsers Deal With Images, Lazy & Eager & Auto Loading, Responsive Design, srset, Formats for Webpages), 
   - iFrame(lazy, srcdoc), 
   - Hyperlinks[to internal & external[site, image, email, phone, document, bookMarks, iframe, button], target, colors,
-    ping, ],
+    ping, rel, ],
 ]
 ) ❌✅ x days
 
