@@ -13,11 +13,11 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 10 /  / 2025 -- (1h12?) == 7h:
 Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful]) ❌✅ x days
 
-10 / 13 & 16 & 17 & 18 & 19 / 2025 -- (45m) & (1h13) & (1h7) & (35m) & (35m) & (51m, 3h11?) == 10h:
+10 / 13 & 16 & 17 & 18 & 19 / 2025 -- (45m) & (1h13) & (1h7) & (35m) & (35m) & (1h30, 2h32?) == 10h:
 HTML  - c1 (why HTML, HTML vs CSS vs Js, ?Browsers Render HTML, elements[headings, paragraph vs pre, line breaks,
 horizontal rule], containers[span vs div], TextFormatting[!comments, bold vs strong, italic vs emphasis, underline, small, mark,
-deletion & insert, subscript & superscript], elements[images[?Browsers Deal With Images, Lazy & Eager & Auto Loading,
-Responsive Design, srset, Formats for Webpages], iFrame[lazy, srcdoc], Hyperlinks[], ]) ❌✅ x days
+deletion & insert, subscript & superscript], elements[images(?Browsers Deal With Images, Lazy & Eager & Auto Loading,
+Responsive Design, srset, Formats for Webpages), iFrame(lazy, srcdoc), Hyperlinks(to internal & external(site, image, email, phone, )), ]) ❌✅ x days
 
 
 2) Data structures and algorithms :
