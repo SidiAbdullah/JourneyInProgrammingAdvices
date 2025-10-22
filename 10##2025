@@ -14,17 +14,17 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful]) ❌✅ x days
 
 10 / 13 & 16 & 17 & 18 & 19 & 20 & 21 / 2025 -- (45m) & (1h13) & (1h7) & (35m) & (35m) & (1h43) & (2h50),
-10 / 22 / 2025 -- (0m, 1h11?) == 10h:
+10 / 22 / 2025 -- (21m, 50m?) == 10h:
 HTML  - c1 (
-a. why HTML, HTML vs CSS vs Js, ?Browsers Render HTML, 
-b. elements[headings, paragraph vs pre, line breaks, horizontal rule],
-c. containers[span vs div],
-d. TextFormatting[bold vs strong, italic vs emphasis, underline, small, mark, deletion & insert, subscript & superscript],
-b++. elements[
-  - images(?Browsers Deal With Images, Lazy & Eager & Auto Loading, Responsive Design, srset, Formats for Webpages), 
-  - iFrame(lazy, srcdoc), 
-  - Hyperlinks[to internal & external[site, image, email, phone, document, bookMarks, iframe, button], target, colors,
-    ping, rel, ],
+a. why HTML, HTML vs CSS vs Js, ?Browsers Render HTML
+b. elements[headings, paragraph vs pre, line breaks, horizontal rule]
+c. containers[span vs div]
+d. TextFormatting[bold vs strong, italic vs emphasis, underline, small, mark, deletion & insert, subscript & superscript]
+b+. elements[
+  - images(?Browsers Deal With Images, Lazy & Eager & Auto Loading, Responsive Design, srset, Formats for Webpages)
+  - iFrame(lazy, srcdoc)
+  - Hyperlinks(to int/external[site, image, email, phone, document, bookMarks, iframe, button], target, colors, ping, rel)
+  - HTML Entities
 ]
 ) ❌✅ x days
 
