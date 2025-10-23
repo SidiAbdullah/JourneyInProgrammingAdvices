@@ -14,21 +14,22 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful]) ❌✅ x days
 
 10 / 13 & 16 & 17 & 18 & 19 & 20 & 21 / 2025 -- (45m) & (1h13) & (1h7) & (35m) & (35m) & (1h43) & (2h50),
-10 / 22 & 23 / 2025 -- (1h28m) & (50m, 2h53) == 14h:
+10 / 22 & 23 / 2025 -- (1h28m) & (1h4, 2h39) == 14h:
 HTML  - c1 (
-a. why HTML, HTML vs CSS vs Js, ?Browsers Render HTML, URL Encoding(after enteties)
-b. elements[headings, paragraph vs pre, line breaks, horizontal rule]
-c. containers[span vs div]
-d. TextFormatting[bold vs strong, italic vs emphasis, underline, small, mark, deletion & insert, subscript & superscript]
-b+. elements[
+- why HTML, HTML vs CSS vs Js, ?Browsers Render HTML, URL Encoding(after enteties)
+a. elements[headings, paragraph vs pre, line breaks, horizontal rule]
+b. containers[span vs div]
+c. TextFormatting[bold vs strong, italic vs emphasis, underline, small, mark, deletion & insert, subscript & superscript]
+a+. elements[
   - images(?Browsers Deal With Images, Lazy & Eager & Auto Loading, Responsive Design, srset, Formats for Webpages)
   - iFrame(lazy, srcdoc)
   - Hyperlinks(to int/external[site, image, email, phone, document, bookMarks, iframe, button], target, colors, ping, rel)
   - HTML Entities
   - Lists(ul, ol, dl)
   - Tables(tr(th vs td), rowspan vs colspan)]
-!c. semantic_containers[header, footer, nav, main, section, article, aside, figure & figcaption, details & summary, time]
-!b. semantic_elements[blockquote & quote, cite]
+b+. semantic_containers[header, footer, nav, main, section, article, aside, figure & figcaption, details & summary, time]
+a+. semantic_elements[blockquote & quote, cite, dfn, abbr, code, samp, kbd, var]
+a+. elements[Video, Audio]
 ) ❌✅ x days
 
 
