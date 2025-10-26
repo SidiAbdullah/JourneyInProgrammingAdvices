@@ -34,7 +34,7 @@ b+. semantic_containers[header, footer, nav, main, section, article, aside, figu
 a+. semantic_elements[blockquote & quote, cite, dfn, abbr, code, samp, kbd, var]
 a+. elements[Video, Audio]
 b+. containers[form(feildset(label, input & select & textarea, validation), enctype)]
-a+. elements[canvas, SVG, Inline Images Using Base64, map, ]
+a+. elements[canvas, SVG, image(Inline Images Using Base64, map, picture), ]
 ) ❌✅ x days
 
 
