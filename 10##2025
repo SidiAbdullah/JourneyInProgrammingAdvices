@@ -17,7 +17,7 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful]) ❌✅ x days
 
 10 / 13 & 16 & 17 & 18 & 19 & 20 & 21 / 2025 -- (45m) & (1h13) & (1h7) & (35m) & (35m) & (1h43) & (2h50),
-10 / 22 & 23 & 24 & 25 / 2025 -- (1h28m) & (1h43) & (6m) & (0m, 1h54) == 14h:
+10 / 22 & 23 & 24 & 26 / 2025 -- (1h28m) & (1h43) & (6m) & (11m, 1h43) == 14h:
 HTML  - c1 (
 - why HTML, HTML vs CSS vs Js, ?Browsers Render HTML, URL Encoding(after enteties)
 a. elements[headings, paragraph vs pre, line breaks, horizontal rule]
@@ -34,6 +34,7 @@ b+. semantic_containers[header, footer, nav, main, section, article, aside, figu
 a+. semantic_elements[blockquote & quote, cite, dfn, abbr, code, samp, kbd, var]
 a+. elements[Video, Audio]
 b+. containers[form(feildset(label, input & select & textarea, validation), enctype)]
+a+. elements[canvas, SVG Graphics]
 ) ❌✅ x days
 
 
