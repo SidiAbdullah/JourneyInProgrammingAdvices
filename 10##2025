@@ -37,7 +37,7 @@ b+. containers[form(feildset(label, input & select & textarea, validation), enct
 a+. elements[canvas, SVG, image(Inline Images Using Base64, map, picture), head(link, script, meta), embed vs object]
 ) ✅ 12 days
 10 / 27 / 2025 -- (5m) :
-CSS - c2 () ❌✅ x days
+CSS - c2 (why css, ) ❌✅ x days
 
 
 2) Data structures and algorithms :
