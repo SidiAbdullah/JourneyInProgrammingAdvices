@@ -36,11 +36,12 @@ a+. elements[Video, Audio]
 b+. containers[form(feildset(label, input & select & textarea, validation), enctype)]
 a+. elements[canvas, SVG, image(Inline Images Using Base64, map, picture), head(link, script, meta), embed vs object]
 ) ✅ 12 days
-10 / 27 & 29 & 30 / 2025 -- (25m) & (1h) & (13mm, 12h22) == 14h:
+10 / 27 & 29 & 30 / 2025 -- (25m) & (1h) & (15m, 12h22) == 14h:
 CSS - c2 (
   - why css, Types of css Styling(Inline, internal, external),
-  - Selectors[single or multiple, element&pseudo-element id class&pseudo-class, element attribute, 
-    Descendant Child Adjacent & General Sibling, Specificity(inline, id, class, element)]
+  - Selectors[single/multiple, element/pseudo-element/id/class/pseudo-class, element/attribute, 
+    Descendant/Child/Adjacent & General Sibling, Specificity(Inline > ID > Class/Attributes/Pseudo > Element/Pseudo)
+    ]
   - Properties[], Values[]
 ) ❌✅ x days
 
