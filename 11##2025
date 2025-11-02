@@ -19,11 +19,14 @@ Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful]) ❌
 11 / 2 / 2025 -- (0m, 11h29?) == 14h:
 CSS - c2 (
   - why css, Types of css Styling(Inline, internal, external),
-  - Selectors[single/multiple, element/pseudo-element/id/class/pseudo-class, element/attribute, 
+  a. Selectors[single/multiple, element/pseudo-element/id/class/pseudo-class, element/attribute, 
     Descendant/Child/Adjacent & General Sibling;
     Specificity(Author(Inline > ID > Class/Attributes/Pseudo > Element/Pseudo), app(User > Author > User-Agent));
     inheritance]
-  - Properties[color], Values
+  b. Properties[
+      - colors(color, Background-Color)
+    ]
+  c. Values
 ) ❌✅ x days
 
 
