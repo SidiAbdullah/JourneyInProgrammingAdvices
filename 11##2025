@@ -16,7 +16,7 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 11 /  / 2025 -- (1h12?) == 7h:
 Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful]) ❌✅ x days
 
-11 / 2 / 2025 -- (0m, 11h29?) == 14h:
+11 / 2 / 2025 -- (16m, 11h13?) == 14h:
 CSS - c2 (
   - why css, Types of css Styling(Inline, internal, external),
   a. Selectors[single/multiple, element/pseudo-element/id/class/pseudo-class, element/attribute, 
@@ -25,6 +25,7 @@ CSS - c2 (
     inheritance]
   b. Properties[
       - colors(color, Background-Color)
+      - images(background-image)
     ]
   c. Values
 ) ❌✅ x days
