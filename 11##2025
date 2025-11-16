@@ -24,7 +24,8 @@ CSS - c2 (
     Descendant/Child/Adjacent & General Sibling;
     Specificity(Author(Inline > ID > Class/Attributes/Pseudo > Element/Pseudo), app(User > Author > User-Agent));
     inheritance]
-  b. Properties[colors(color, Background-Color); images(background-image); border/margin/padding, Fonts, Height/Width]
+  b. Properties[colors(color, Background-Color); images(background-image); padding/border/margin/outline/border-box,
+    Fonts, Height/Width]
   c. Values(absolute/relative Units)
 ) ❌✅ x days
 
