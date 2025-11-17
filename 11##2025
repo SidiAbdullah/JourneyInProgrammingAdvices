@@ -17,15 +17,15 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful], DTO) ❌✅ x days
 
 11 / 2 & 3 & 11 & 12 & 13 & 14 & 15 / 2025 -- (30m) & (26m) & (50m) & (1h) & (15m) & (1h48) & (12m),
-11 / 16 & 17 / 2025 -- (43m) & (21m) == 14h:
+11 / 16 & 17 / 2025 -- (43m) & (47m) == 14h:
 CSS - c2 (
-  - why css, Types of css Styling(Inline, internal, external), Using DevTools
+  - why css, Types of css Styling(Inline, internal, external), Using DevTools, Media Query
   a. Selectors[single/multiple, element/pseudo-element/id/class/pseudo-class, element/attribute, 
     Descendant/Child/Adjacent & General Sibling;
     Specificity(Author(Inline > ID > Class/Attributes/Pseudo > Element/Pseudo), app(User > Author > User-Agent));
     inheritance]
   b. Properties[colors(color, Background-Color); images(background-image); padding/border/margin/outline/border-box,
-    Fonts, Height/Width, position, display(., Flexbox)]
+    Fonts, Height/Width, position, display(., Flex)]
   c. Values(absolute/relative Units)
 ) ❌✅ x days
 
