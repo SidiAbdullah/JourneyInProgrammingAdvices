@@ -13,11 +13,11 @@ Serialization, Attributes, Reflection, ..) ❌✅ x days
 11 /  / 2025 -- (6h28?) == 8h:
 Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 
-11 / 15 & 17 / 2025 -- (1h7, 1h31?) & (1h31?) == 8h30:
+11 / 15 / 2025 -- (1h7) & (1h31?) == 8h30:
 Introduction to RESTful API - c25 (Why XML & JSON, API[Win32, Web, RESTful], DTO) ❌✅ x days
 
 11 / 2 & 3 & 11 & 12 & 13 & 14 & 15 / 2025 -- (30m) & (26m) & (50m) & (1h) & (15m) & (1h48) & (12m),
-11 / 16 & 17 / 2025 -- (43m) & (47m) == 14h:
+11 / 16 & 17 & 18 / 2025 -- (43m) & (47m) & (16m) == 14h:
 CSS - c2 (
   - why css, Types of css Styling(Inline, internal, external), Using DevTools, Media Query
   a. Selectors[single/multiple, element/pseudo-element/id/class/pseudo-class, element/attribute, 
@@ -33,12 +33,12 @@ CSS - c2 (
 javascript - c3 (
   - how to run js(file/live server/nodejs), how to Include JS in HTML(inline/interanl/external), what/why/how js
   - Window(BOM, DOM, Timing Functions)
-) ❌✅ x days
+) ✅ x days
 
 
 2) Data structures and algorithms :
-11 / 12 & 14 & 16 & 17 / 2025 -- (1h) & (40m) & (31m) & (?):
+11 / 12 & 14 & 16 & 18 / 2025 -- (1h) & (40m) & (31m) & (33m):
 Algorithms - 23 (array[Linear & Binary Search, Bubble & Selection & Insertion Sort], 
 Tree[Pre & In & Post & Level orders Traversal, BST[AVL_Tree[Rotations]], RedBlack_Tree], Greedy_Algorithms_2p
-Dictionary_and_Hashset_20_problems,
+Dictionary_and_Hashset_20_problems, SortedList_11p, HashTable_SortedList_SortedSet_13p
 ) ❌✅ x days
