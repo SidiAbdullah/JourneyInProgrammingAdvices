@@ -25,7 +25,7 @@ CSS - c2 (
     Specificity(Author(Inline > ID > Class/Attributes/Pseudo > Element/Pseudo), app(User > Author > User-Agent));
     inheritance]
   b. Properties[colors(color, Background-Color); images(background-image); padding/border/margin/outline/border-box,
-    Fonts, Height/Width, position, display(., Flex)]
+    Fonts, Height/Width, position, display(., Flex, Grid)]
   c. Values(absolute/relative Units)
 ) ❌✅ x days
 
