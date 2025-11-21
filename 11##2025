@@ -38,7 +38,10 @@ javascript - c3 (
 
 2) Data structures and algorithms :
 11 / 12 & 14 & 16 & 18 & 21 / 2025 -- (1h) & (40m) & (31m) & (33m) & (10m):
-Algorithms - 23 (array[Linear & Binary Search, Bubble & Selection & Insertion Sort], 
-Tree[Pre & In & Post & Level orders Traversal, BST[AVL_Tree[Rotations]], RedBlack_Tree], Greedy_Algorithms_2p
-Dictionary_and_Hashset_20_problems, SortedList_11p, Tuples_Problems_5p, HashTable_SortedList_SortedSet_13p
+Algorithms - 23 (
+  array[Linear & Binary Search, Bubble & Selection & Insertion Sort], 
+  Tree[Pre & In & Post & Level orders Traversal, BST[AVL_Tree[Rotations]], RedBlack_Tree], Graph[]?,
+  Greedy_Algorithms, Dictionary_and_Hashset_20, SortedList_11p, Tuples_Problems_5, 
+  Queue & Stack_30?, Observable_Collection_7?, Jagged_Array__7?, BitArray_12?, 
+  HashTable_SortedList_SortedSet_13?, Trees_12?, 
 ) ❌✅ x days
