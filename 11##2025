@@ -24,8 +24,10 @@ CSS - c2 (
   a. Selectors[single/multiple, element/pseudo-element, element/attribute, Descendant/Adjacent_General_Sibling;
     Specificity(Author(Inline > ID > Class/Attributes/Pseudo > Element/Pseudo), app(User > Author > User-Agent));
     inheritance]
-  b. Properties[colors(color, Background-Color); images(background-image); padding/border/margin/outline/border-box,
-    Fonts, Height/Width, position & display(., Flex, Grid)..]
+  b. Properties[
+  - text(colors(color, Background-Color), Fonts, Height/Width)
+  - images(background-image, Gradients)
+  - container(padding/border/margin/outline/border-box, position/display(., Flex, Grid), Shadow Effects)]
   c. Values(absolute/relative Units..)
 ) ❌✅ x days
 
