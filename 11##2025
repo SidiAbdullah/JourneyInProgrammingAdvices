@@ -26,7 +26,7 @@ CSS - c2 (
     inheritance]
   b. Properties[
   - text(colors(color, Background-Color), Fonts, Height/Width, opacity)
-  - images(background-image, Gradients, transform, transition, animation)
+  - images(background-image, Gradients, transform, transition, animation, shapes, sprites)
   - container(padding/border/margin/outline/border-box, position/display(., Flex, Grid), Shadow Effects)]
   c. Values(absolute/relative Units..)
 ) ❌✅ x days
