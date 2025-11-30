@@ -4,17 +4,10 @@ Full Real Project - c19 (
 - DataBases[Countries, Persons, Users, Application_Types, Applications, LicenseClasses, 
 LocalDrivingLicenseApplications, TestTypes, TestAppointments, Tests, Drivers, Licenses, DetainedLicenses]
 - 3_tier_architectur[people management, ]
-) ❌✅ x days
+) ✅
 
-11 / / 2025 -- (6h6?) == 13h:
-c# & windows forms - c20 (Share Data between forms, userControl, delegation[Events], Lambada, Nullable,
-Serialization, Attributes, Reflection, ..) ❌✅ x days
-
-11 /  / 2025 -- (6h28?) == 8h:
-Windows Services - c24 (Why Windows Services, ) ❌✅ x days
-
-11 / 15 & 27 & 28 / 2025 -- (1h7) & (4m) & (15m) & (1h12?) == 8h30:
-Introduction to RESTful API - c25 (Why XML/JSON, API[Win32, Web, RESTful], DTO, StudentAPI 3 Tier with DB) ✅
+11 / 15 & 27 & 28 / 2025 -- (1h7) & (4m) & (15m) == 8h30:
+Introduction to RESTful API - c25 (Why XML/JSON, API[Win32, Web, RESTful], DTO) ✅
 
 11 / 2 & 3 & 11 & 12 & 13 & 14 & 15 / 2025 -- (30m) & (26m) & (50m) & (1h) & (15m) & (1h48) & (12m),
 11 / 16 & 17 & 18 & 19 & 20 & 22 & 23 / 2025 -- (43m) & (47m) & (16m) & (14m) & (27m) & (1h10) & (21m),
@@ -25,17 +18,17 @@ CSS - c2 (
     Specificity(Author(Inline > ID > Class/Attributes/Pseudo > Element/Pseudo), app(User > Author > User-Agent));
     inheritance]
   b. Properties[
-  - text(colors(color, Background-Color), Fonts, Height/Width, opacity)
+  - text(colors(color, Background-Color), Fonts, Height/Width, opacity, variables, math_functions)
   - images(background-image, Gradients, transform, transition, animation, shapes, SVG vs Image Sprites)
   - container(padding/border/margin/outline/border-box, position/display(., Flex, Grid), Shadow Effects)]
   c. Values(absolute/relative Units..)
-) ❌✅ x days
+) ✅ 19 days
 
 11 / 3 & 7 & 9 & 10 / 2025 -- (2h20) & (15m) & (3h13) & (1h) :
 javascript - c3 (
   - how to run js(file/live server/nodejs), how to Include JS in HTML(inline/interanl/external), what/why/how js
   - Window(BOM, DOM, Timing Functions)
-) ✅ x days
+) ✅
 
 
 2) Data structures and algorithms :
