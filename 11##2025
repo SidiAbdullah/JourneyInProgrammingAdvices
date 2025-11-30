@@ -1,11 +1,4 @@
 1) Full Stack :
-11 /  / 2025 -- (45m?, 10h30?) == 17h:
-Full Real Project - c19 (
-- DataBases[Countries, Persons, Users, Application_Types, Applications, LicenseClasses, 
-LocalDrivingLicenseApplications, TestTypes, TestAppointments, Tests, Drivers, Licenses, DetainedLicenses]
-- 3_tier_architectur[people management, ]
-) ✅
-
 11 / 15 & 27 & 28 / 2025 -- (1h7) & (4m) & (15m) == 8h30:
 Introduction to RESTful API - c25 (Why XML/JSON, API[Win32, Web, RESTful], DTO) ✅
 
@@ -22,7 +15,7 @@ CSS - c2 (
   - images(background-image, Gradients, transform, transition, animation, shapes, SVG vs Image Sprites)
   - container(padding/border/margin/outline/border-box, position/display(., Flex, Grid), Shadow Effects)]
   c. Values(absolute/relative Units..)
-) ✅ 19 days
+) ✅
 
 11 / 3 & 7 & 9 & 10 / 2025 -- (2h20) & (15m) & (3h13) & (1h) :
 javascript - c3 (
@@ -39,4 +32,4 @@ Algorithms - 23 (
   Greedy_Algorithms, Dictionary_and_Hashset_20, SortedList_11p, Tuples_Problems_5, 
   Queue_Stack_30?, Observable_Collection_7?, Jagged_Array__7?, BitArray_12?, 
   HashTable_SortedList_SortedSet_13, Trees_12?, 
-) ❌✅ x days
+) ✅
