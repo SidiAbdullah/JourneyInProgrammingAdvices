@@ -18,7 +18,7 @@ Introduction to RESTful API - c25 (Why XML/JSON, API[Win32, Web, RESTful], DTO, 
 
 11 / 2 & 3 & 11 & 12 & 13 & 14 & 15 / 2025 -- (30m) & (26m) & (50m) & (1h) & (15m) & (1h48) & (12m),
 11 / 16 & 17 & 18 & 19 & 20 & 22 & 23 / 2025 -- (43m) & (47m) & (16m) & (14m) & (27m) & (1h10) & (21m),
-11 / 24 & 27 & 28 & 29 & 30 / 2025 -- (8m) & (50m) & (50m) & (30m) & (1h15) == 14h:
+11 / 24 & 27 & 28 & 29 & 30 / 2025 -- (8m) & (50m) & (50m) & (30m) & (1h33) == 14h:
 CSS - c2 (
   - why css, Types of css Styling(Inline, internal, external), Using DevTools, Media Query
   a. Selectors[single/multiple, element/pseudo-element, element/attribute, Descendant/Adjacent_General_Sibling;
@@ -26,7 +26,7 @@ CSS - c2 (
     inheritance]
   b. Properties[
   - text(colors(color, Background-Color), Fonts, Height/Width, opacity)
-  - images(background-image, Gradients, transform, transition, animation, shapes, sprites)
+  - images(background-image, Gradients, transform, transition, animation, shapes, SVG vs Image Sprites)
   - container(padding/border/margin/outline/border-box, position/display(., Flex, Grid), Shadow Effects)]
   c. Values(absolute/relative Units..)
 ) ❌✅ x days
