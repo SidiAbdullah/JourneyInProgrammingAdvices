@@ -1,8 +1,8 @@
 1) Full Stack :
-12 / 1 & 2 & 3 & 4 / 2025 -- (45m) & (1h20) & (36m) & (55m) :
+12 / 1 & 2 & 3 & 4 / 2025 -- (45m) & (1h20) & (36m) & (55m) (1h52?) :
 c# & windows forms - c20 (Share Data between forms, userControl, delegation[Events], Lambada, Nullable,
 Serialization, Attributes, Reflection, class_description, Mutable_Immutable_Types, Generics, WindowsRegistry,
-.., String_Builder, Cryptography, Operator-Overloading, Multithreading, ) ❌✅ x days
+.., String_Builder, Cryptography, Operator-Overloading, Multithreading vs Asynchronous, ) ❌✅ x days
 
 12 /  / 2025 -- :
 Windows Services - c24 (Why Windows Services, ) ❌✅ x days
