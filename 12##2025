@@ -9,11 +9,11 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 
 
 2) Data structures and algorithms :
-12 / 1 & 2 & 4 & 6 & 8 / 2025 -- (10m) & (12m) & (12m) & (12m) & (12m) :
+12 / 1 & 2 & 4 & 6 & 8 / 2025 -- (10m) & (12m) & (12m) & (12m) & (30m) :
 Algorithms - 23 (
   array[Linear & Binary Search, Bubble & Selection & Insertion Sort], 
   Tree[Pre & In & Post & Level orders Traversal, BST[AVL_Tree[Rotations]], RedBlack_Tree], Graph[]?,
   Greedy_Algorithms, Dictionary_and_Hashset_20, SortedList_11p, Tuples_Problems_5, 
-  Queue_Stack_30?, Observable_Collection_7?, Jagged_Array__7?, BitArray_12?, 
-  HashTable_SortedList_SortedSet_13, Trees_12?, 
+  Queue_Stack_30, Observable_Collection_7?, Jagged_Array__7?, BitArray_12?, 
+  HashTable_SortedList_SortedSet_13, Trees_12?
 ) ❌✅ x days
