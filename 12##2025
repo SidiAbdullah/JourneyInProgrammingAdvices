@@ -1,5 +1,5 @@
 1) Full Stack :
-12 / 1 & 2 & 3 & 4 & 5 & 6 / 2025 -- (45m) & (1h20) & (36m) & (1h22) & (22m) & (1h33) :
+12 / 1 & 2 & 3 & 4 & 5 & 6 & 8 / 2025 -- (45m) & (1h20) & (36m) & (1h22) & (22m) & (1h33) & (30m) :
 c# & windows forms - c20 (Data between forms, user-Controls, delegation, Lambada, Nullable, Serialization, 
 Attributes, Reflection, class_description, Mutable vs Immutable Types, Generics, WindowsRegistry, .., 
 String_Builder, Cryptography, Operator-Overloading, Multithreading vs A_synchronous) ❌✅ x days
@@ -9,7 +9,7 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 
 
 2) Data structures and algorithms :
-12 / 1 & 2 & 4 & 6 / 2025 -- (10m) & (12m) & (12m) & (12m) :
+12 / 1 & 2 & 4 & 6 & 8 / 2025 -- (10m) & (12m) & (12m) & (12m) & (12m) :
 Algorithms - 23 (
   array[Linear & Binary Search, Bubble & Selection & Insertion Sort], 
   Tree[Pre & In & Post & Level orders Traversal, BST[AVL_Tree[Rotations]], RedBlack_Tree], Graph[]?,
