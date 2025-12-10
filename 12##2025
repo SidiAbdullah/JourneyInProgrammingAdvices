@@ -1,6 +1,6 @@
 1) Full Stack :
 12 / 1 & 2 & 3 & 4 & 5 & 6 & 8 / 2025 -- (45m) & (1h20) & (36m) & (1h22) & (22m) & (1h33) & (30m),
-12 / 9 & 10 / 2025 -- (20m) & (29m) {3h15 : events , 44m : refl} :
+12 / 9 & 10 / 2025 -- (20m) & (+29m) {+3h15 : events , +44m : refl} :
 c# & windows forms - c20 (Data between forms, user-Controls, delegation, Lambada, Nullable, Serialization, 
 Attributes, Reflection, class_description, Mutable vs Immutable Types, Generics, Windows-Registry, Event-Log,
 App.config, String_Builder, Cryptography, Operator-Overloading, Multithreading vs A_synchronous) ❌✅ x days
