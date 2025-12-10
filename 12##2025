@@ -1,6 +1,6 @@
 1) Full Stack :
 12 / 1 & 2 & 3 & 4 & 5 & 6 & 8 / 2025 -- (45m) & (1h20) & (36m) & (1h22) & (22m) & (1h33) & (30m),
-12 / 9 / 2025 -- (20m) :
+12 / 9 & 10 / 2025 -- (20m) & (29m) {3h15 : events , 44m : refl} :
 c# & windows forms - c20 (Data between forms, user-Controls, delegation, Lambada, Nullable, Serialization, 
 Attributes, Reflection, class_description, Mutable vs Immutable Types, Generics, Windows-Registry, Event-Log,
 App.config, String_Builder, Cryptography, Operator-Overloading, Multithreading vs A_synchronous) ❌✅ x days
@@ -10,11 +10,11 @@ Windows Services - c24 (Why Windows Services, ) ❌✅ x days
 
 
 2) Data structures and algorithms :
-12 / 1 & 2 & 4 & 6 & 8 & 9 / 2025 -- (10m) & (12m) & (12m) & (12m) & (30m) & (21m) :
+12 / 1 & 2 & 4 & 6 & 8 & 9 & 10 / 2025 -- (10m) & (12m) & (12m) & (12m) & (30m) & (21m) & (21m) :
 Algorithms - 23 (
   array[Linear & Binary Search, Bubble & Selection & Insertion Sort], 
   Tree[Pre & In & Post & Level orders Traversal, BST[AVL_Tree[Rotations]], RedBlack_Tree], Graph[]?,
   Greedy_Algorithms, Dictionary_and_Hashset_20, SortedList_11p, Tuples_Problems_5, 
-  Queue_Stack_30, Observable_Collection_7, Jagged_Array__7?, BitArray_12?, 
+  Queue_Stack_30, Observable_Collection_7, Jagged_Array__7, BitArray_12?, 
   HashTable_SortedList_SortedSet_13, Trees_12?
 ) ❌✅ x days
