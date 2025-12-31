@@ -12,7 +12,7 @@ Foundations Level 2 - c9 (Networks and Internet, misc) ✅ 2 day
 Windows Services - c24 (what/Why, Start and Stop a WS Manually/auto) ❌✅ x days
 
 12 / 30 / 2025 -- (17m) :
-Solid Principles - c26 ❌✅ x days
+Secure Your APIs: JWT, Roles & Policies in ASP.NET Core - c26 ❌✅ x days
 
 12 / 30 / 2025 -- (25m) :
 Solid Principles - c27 ❌✅ x days
@@ -21,9 +21,7 @@ Solid Principles - c27 ❌✅ x days
 javascript - c28 (
   - DOM (Event Handling, ) / BOM (Scrolling, Location, history, navigator, screen, )
   - Web Storage (localStorage, sessionStorage, Cookies, indexDB)
-  - ..
-  - 10 projects
-) ❌✅ x days
+  - 10 projects ) ❌✅ x days
 
 
 2) Data structures and algorithms :
