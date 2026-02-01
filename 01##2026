@@ -1,17 +1,11 @@
 1) Full Stack :
-1 /  / 2026 --  :
-Windows Services - c24 (what/Why, Start and Stop a WS Manually/auto) ❌✅ x days
-
 1 / 26 & 27 & 28 & 29 & 30 & 31 / 2026 -- (50m) & (1h) & (1h5) & (1h) & (1h) & (50m) :
 Secure Your APIs - c26  (HTTPS + CORS, Authentication, Authorization, 
-Ownership & policies, Production hardening) ❌✅ x days
-
-1 /  / 2026 --  :
-Solid Principles - c27 ❌✅ x days
+Ownership & policies, Production hardening) ✅
 
 1 / 2 & 3 & 4 & 5 & 6 & 7 & 12 / 2026 -- (20m) & (1h13) & (1h) & (30m) & (1h30) & (3h) & (20m) :
 1 / 14 & 17 / 2026 -- (1h24) & (42m) :
 javascript - c28 (
   - DOM (Event Handling, ) / BOM (Scrolling, Location, history, navigator, screen, )
   - Web Storage (localStorage, sessionStorage, Cookies, indexDB) / syntax and concepts
-  - 10 projects ) ❌✅ x days
+  - 10 projects ) ✅
